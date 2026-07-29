@@ -1,0 +1,2 @@
+import FunctionalProgrammingLambdaCalculus68n19CanonicalLaneLean.GateLemmas
+import FunctionalProgrammingLambdaCalculus68n19CanonicalLaneLean.FinalTheorem
